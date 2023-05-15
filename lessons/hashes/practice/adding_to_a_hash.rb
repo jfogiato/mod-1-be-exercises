@@ -8,5 +8,11 @@ suitcase = {
 # 2. shirts/4
 # 3. shoes/2
 
+suitcase["jackets"] = 2
+suitcase["shirts"] = 4
+suitcase["shoes"] = 2
+
+p suitcase
+
 # How can we increase the existing value:
 # 1. Change pants to have a value of 2

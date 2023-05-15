@@ -2,6 +2,11 @@
 
 # Create your hash here
 
+new_band = {
+  bassist: "Caro's dad",
+  
+}
+
 # Steps
 # 1. Create a hash called new_band.
 # 2. Add a bassist to your new_band hash.
